@@ -1,0 +1,30 @@
+_repo: Le-droit-de-lire_1981
+alternative_title: The Right to Read. French
+creator:
+  author:
+    agent_name: Stallman, Richard
+    alias: Stallman, Richard M.
+    birthdate: 1953
+    gutenberg_agent_id: '771'
+    url: http://www.gutenberg.org/2009/agents/771
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Stallman
+description: "HTML\r\nDate of origin in English 1996 by Stallman, first published\
+  \ in Communications of the ACM (volume 40, number 2), February 1997, translated\
+  \ into French for PG by Pierre Sarrazin in February 1999."
+gutenberg_bookshelf: FR Science fiction
+gutenberg_issued: '1999-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1981'
+language: fr
+publication_note: '[S.l. :  s.n.],  1999'
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Intellectual property -- Fiction'
+title: Le droit de lire
+url: http://www.gutenberg.org/ebooks/1981
