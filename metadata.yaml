@@ -1,6 +1,9 @@
 _repo: Le-droit-de-lire_1981
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The Right to Read. French
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stallman, Richard
@@ -12,6 +15,8 @@ creator:
 description: "HTML\r\nDate of origin in English 1996 by Stallman, first published\
   \ in Communications of the ACM (volume 40, number 2), February 1997, translated\
   \ into French for PG by Pierre Sarrazin in February 1999."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1981#Le-droit-de-lire
 gutenberg_bookshelf: FR Science fiction
 gutenberg_issued: '1999-11-01'
 gutenberg_type: Text
