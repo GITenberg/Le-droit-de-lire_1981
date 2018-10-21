@@ -1,5 +1,5 @@
 _repo: Le-droit-de-lire_1981
-_version: 0.2.0
+_version: 0.2.1
 alternative_title: The Right to Read. French
 covers:
 - cover_type: generated
@@ -32,5 +32,6 @@ subjects:
 - !lcsh 'Short stories'
 - !lcc 'PS'
 - !lcsh 'Intellectual property -- Fiction'
+- GITenberg
 title: Le droit de lire
 url: http://www.gutenberg.org/ebooks/1981
